@@ -1,7 +1,6 @@
 {
-  "lang": "robots_txt",
-  "url": "https://github.com/opa-oz/tree-sitter-robots-txt",
   "semver": false,
+  "lang": "robots_txt",
   "parser_version": "0c066107e3548de79316a6a4ec771e2f7cf7c468",
-  "location": null
+  "url": "https://github.com/opa-oz/tree-sitter-robots-txt"
 }
